@@ -26,7 +26,7 @@ To successfully complete this tutorial, you must do the following steps:
 
 2. Install the [C/C++ extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools). You can install the C/C++ extension by searching for 'c++' in the Extensions view (Ctrl+Shift+X).
 
-   ![](./imgs/1_imgs/1_imgs/1.jpg)
+   ![](./imgs/1_imgs/1.jpg)
 
 3. Install Mingw-w64 via the SourceForge website. Click [Mingw-w64](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download) to download the Windows Mingw-w64 installer.
 

@@ -9,6 +9,8 @@
 
 ## [WindowsVscodeMinGWC++环境配置一](https://github.com/lsmilesmile/Environment-Setup/blob/felix/1_0WindowsVscodeMinGWC%2B%2B%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E4%B8%80.md)
 
+## [WindowsVscodeMinGWC++环境配置二](https://github.com/lsmilesmile/Environment-Setup/blob/felix/1_1WindowsVscodeMinGWC%2B%2B%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E4%BA%8C.md)
+
 ## [ChromeDriver的安装 - windows](https://github.com/lsmilesmile/Environment-Setup/blob/felix/2_chromedriver%E5%AE%89%E8%A3%85windows.md)
 
 ## [CUDA编程环境配置](https://github.com/lsmilesmile/Environment-Setup/blob/felix/3_CUDA%E7%BC%96%E7%A8%8B%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.md)
